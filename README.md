@@ -14,3 +14,9 @@ Feel free to create a pull request with your own theme and its screenshot, or se
 
 ##### Dark Blue - `dark-blue.xml`
 ![Dark Blue](https://raw.github.com/mwgg/vatspy-themes/main/screenshots/dark-blue.png)
+
+##### Solarized Dark - `solarized-dark.xml`
+![Solarized Dark](https://raw.github.com/mwgg/vatspy-themes/main/screenshots/solarized-dark.png)
+
+##### Solarized Light - `solarized-light.xml`
+![Solarized Light](https://raw.github.com/mwgg/vatspy-themes/main/screenshots/solarized-light.png)
