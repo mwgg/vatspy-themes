@@ -8,7 +8,7 @@ Replace the contents of `%AppData%\VAT-Spy\VATSpyConfig.xml` with the contents o
 
 ## Contributing
 
-Feel free to create a pull request with your own theme and its screenshot to add to the collection.
+Feel free to create a pull request with your own theme and its screenshot, or send me a message and I'll be happy to include it on your behalf.
 
 ## Themes
 
