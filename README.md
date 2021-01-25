@@ -1,10 +1,14 @@
-# VAT-Spy color themes
+# VAT-Spy colour themes
 
-Visual color themes to spruce up VAT-Spy.
+Visual colour themes to spruce up VAT-Spy.
 
 ## Installation
 
-Replace the contents of `%AppData%\VAT-Spy\VATSpyConfig.xml` (or just the color/font sections of it) with the contents of the `.xml` file with your desired theme. Note that themes make use of fonts, defined in the `.xml` files. If the font used is not available on your system, it obviously won't look the same.
+Replace the contents of `%AppData%\VAT-Spy\VATSpyConfig.xml` with the contents of the `.xml` file with your desired theme. Only the colour and font sections may be replaced if you have other non-standard settings you wish to keep. Note that if a theme uses fonts not present on your system, it will not look correctly unless you install the font first. You can see the fonts used towards the bottom of the `.xml` theme file.
+
+## Contributing
+
+Feel free to create a pull request with your own theme and its screenshot to add to the collection.
 
 ## Themes
 
