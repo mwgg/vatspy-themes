@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VATSpyConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AutoRefresh>true</AutoRefresh>
+  <AutoUpdateDataFiles>true</AutoUpdateDataFiles>
+  <CheckForUpdates>true</CheckForUpdates>
+  <MapBookmarks />
+  <Favorites />
+  <Filters />
+  <WaterDetailLevel>VeryLow</WaterDetailLevel>
+  <IslandDetailLevel>VeryLow</IslandDetailLevel>
+  <MaxDataAge>4</MaxDataAge>
+  <LastMETARCodes />
+  <ColorSea>
+    <Red>0.07450981</Red>
+    <Green>0.08627451</Green>
+    <Blue>0.101960786</Blue>
+  </ColorSea>
+  <ColorLand>
+    <Red>0.109803922</Red>
+    <Green>0.121568628</Green>
+    <Blue>0.141176477</Blue>
+  </ColorLand>
+  <ColorCoastline>
+    <Red>0.180392161</Red>
+    <Green>0.180392161</Green>
+    <Blue>0.180392161</Blue>
+  </ColorCoastline>
+  <ColorUnstaffedFIR>
+    <Red>0.227450982</Red>
+    <Green>0.227450982</Green>
+    <Blue>0.305882365</Blue>
+  </ColorUnstaffedFIR>
+  <ColorStaffedFIR>
+    <Red>0.254901975</Red>
+    <Green>0.7764706</Green>
+    <Blue>0.223529413</Blue>
+  </ColorStaffedFIR>
+  <ColorUIR>
+    <Red>0.5019608</Red>
+    <Green>0.7490196</Green>
+    <Blue>0.7137255</Blue>
+  </ColorUIR>
+  <ColorApproachCircle>
+    <Red>0.545098066</Red>
+    <Green>0.7254902</Green>
+    <Blue>0</Blue>
+  </ColorApproachCircle>
+  <ColorAirportLabel>
+    <Red>0.309803933</Red>
+    <Green>0.31764707</Green>
+    <Blue>0.356862754</Blue>
+  </ColorAirportLabel>
+  <ColorFlightSymbol>
+    <Red>0.7529412</Red>
+    <Green>0.7529412</Green>
+    <Blue>0.7529412</Blue>
+  </ColorFlightSymbol>
+  <ColorFlightCallsign>
+    <Red>0.8235294</Red>
+    <Green>0.8235294</Green>
+    <Blue>0.8235294</Blue>
+  </ColorFlightCallsign>
+  <ColorFlightHighlight>
+    <Red>0.8509804</Red>
+    <Green>0.254901975</Green>
+    <Blue>0</Blue>
+  </ColorFlightHighlight>
+  <ColorDepDestLines>
+    <Red>0.41568628</Red>
+    <Green>0.9137255</Green>
+    <Blue>0.08627451</Blue>
+  </ColorDepDestLines>
+  <CustomColors>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+  </CustomColors>
+  <MapShowFlights>true</MapShowFlights>
+  <MapShowFlightCallsigns>true</MapShowFlightCallsigns>
+  <MapHighlightFiltered>true</MapHighlightFiltered>
+  <MapShowATC>true</MapShowATC>
+  <MapShowFIRs>true</MapShowFIRs>
+  <MapShowFIRLabels>true</MapShowFIRLabels>
+  <MapShowStaffedAirports>true</MapShowStaffedAirports>
+  <MapShowUnstaffedAirports>true</MapShowUnstaffedAirports>
+  <MapShowInactiveAirports>false</MapShowInactiveAirports>
+  <MapShowOpsCounts>true</MapShowOpsCounts>
+  <LastSelectedJumpCode />
+  <LastSelectedFilter />
+  <LastMapCenter>
+    <Lon>3.0744039198172417</Lon>
+    <Lat>52.448932344240561</Lat>
+  </LastMapCenter>
+  <LastMapZoom>0.87401634649725135</LastMapZoom>
+  <LastVisibleTab>0</LastVisibleTab>
+  <LastWindowLocation>
+    <X>328</X>
+    <Y>111</Y>
+  </LastWindowLocation>
+  <LastWindowSize>
+    <Width>2050</Width>
+    <Height>1279</Height>
+  </LastWindowSize>
+  <WindowMaximized>false</WindowMaximized>
+  <MapFontUnstaffedATC>
+    <Family>Trebuchet MS</Family>
+    <Size>9.75</Size>
+    <Style>Bold</Style>
+  </MapFontUnstaffedATC>
+  <MapFontStaffedATC>
+    <Family>Trebuchet MS</Family>
+    <Size>9.75</Size>
+    <Style>Bold</Style>
+  </MapFontStaffedATC>
+  <MapFontAirports>
+    <Family>Trebuchet MS</Family>
+    <Size>9</Size>
+    <Style>Regular</Style>
+  </MapFontAirports>
+  <MapFontAircraft>
+    <Family>Trebuchet MS</Family>
+    <Size>9</Size>
+    <Style>Regular</Style>
+  </MapFontAircraft>
+  <MapFontPopupText>
+    <Family>Trebuchet MS</Family>
+    <Size>9</Size>
+    <Style>Regular</Style>
+  </MapFontPopupText>
+  <UseProxy>false</UseProxy>
+  <UseDefaultProxy>true</UseDefaultProxy>
+  <ProxyAddress />
+  <ProxyPort>80</ProxyPort>
+  <ProxyUser />
+  <ProxyPassword />
+</VATSpyConfig>
