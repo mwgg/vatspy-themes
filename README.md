@@ -16,14 +16,14 @@ Feel free to create a pull request with your own theme and its screenshot, or se
 
 ## Themes
 
-##### Dark Blue - `dark-blue.xml`
+##### Dark Blue - [`dark-blue.xml`](themes/dark-blue.xml)
 ![Dark Blue](https://raw.github.com/mwgg/vatspy-themes/main/screenshots/dark-blue.png)
 
-##### Dark Green - `dark-green.xml`
+##### Dark Green - [`dark-green.xml`](themes/dark-green.xml)
 ![Dark Green](https://raw.github.com/mwgg/vatspy-themes/main/screenshots/dark-green.png)
 
-##### Solarized Dark - `solarized-dark.xml`
+##### Solarized Dark - [`solarized-dark.xml`](themes/solarized-dark.xml)
 ![Solarized Dark](https://raw.github.com/mwgg/vatspy-themes/main/screenshots/solarized-dark.png)
 
-##### Solarized Light - `solarized-light.xml`
+##### Solarized Light - [`solarized-light.xml`](themes/solarized-light.xml)
 ![Solarized Light](https://raw.github.com/mwgg/vatspy-themes/main/screenshots/solarized-light.png)
