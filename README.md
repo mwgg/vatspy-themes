@@ -30,3 +30,6 @@ Feel free to create a pull request with your own theme and its screenshot, or se
 
 ##### Mono Green - [`mono-green.xml`](themes/mono-green.xml)
 ![Mono Green](https://raw.github.com/mwgg/vatspy-themes/main/screenshots/mono-green.png)
+
+##### Nord - [`nord.xml`](themes/nord.xml)
+![Nord](https://raw.github.com/mwgg/vatspy-themes/main/screenshots/nord.png)
