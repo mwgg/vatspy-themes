@@ -10,7 +10,7 @@
   <WaterDetailLevel>Low</WaterDetailLevel>
   <IslandDetailLevel>Low</IslandDetailLevel>
   <MaxDataAge>4</MaxDataAge>
-  <LastMETARCodes \>
+  <LastMETARCodes />
   <ColorSea>
     <Red>0.07450981</Red>
     <Green>0.08627451</Green>
@@ -111,22 +111,22 @@
   <MapShowOpsCounts>true</MapShowOpsCounts>
   <LastSelectedJumpCode />
   <LastSelectedFilter />
-  <LastViewedCountry></LastViewedCountry>
-  <LastViewedFIR></LastViewedFIR>
-  <LastViewedAirport></LastViewedAirport>
+  <LastViewedCountry>USA</LastViewedCountry>
+  <LastViewedFIR>KZBW</LastViewedFIR>
+  <LastViewedAirport>KBOS</LastViewedAirport>
   <LastMapCenter>
-    <Lon></Lon>
-    <Lat></Lat>
+    <Lon>-80.118763709231871</Lon>
+    <Lat>45.008806416890955</Lat>
   </LastMapCenter>
-  <LastMapZoom></LastMapZoom>
+  <LastMapZoom>1.1933128894376033</LastMapZoom>
   <LastVisibleTab>0</LastVisibleTab>
   <LastWindowLocation>
-    <X></X>
-    <Y></Y>
+    <X>328</X>
+    <Y>111</Y>
   </LastWindowLocation>
   <LastWindowSize>
-    <Width></Width>
-    <Height></Height>
+    <Width>1024</Width>
+    <Height>768</Height>
   </LastWindowSize>
   <WindowMaximized>true</WindowMaximized>
   <MapFontUnstaffedATC>
@@ -161,4 +161,5 @@
   <ProxyUser />
   <ProxyPassword />
   <SwapMouseButtons>false</SwapMouseButtons>
+  <DataPath>C:\Users\BiBo\AppData\Roaming\VAT-Spy</DataPath>
 </VATSpyConfig>
