@@ -161,5 +161,5 @@
   <ProxyUser />
   <ProxyPassword />
   <SwapMouseButtons>false</SwapMouseButtons>
-  <DataPath>C:\Users\BiBo\AppData\Roaming\VAT-Spy</DataPath>
+  <DataPath>%AppData%\VAT-Spy\</DataPath>
 </VATSpyConfig>
