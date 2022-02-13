@@ -161,5 +161,4 @@
   <ProxyUser />
   <ProxyPassword />
   <SwapMouseButtons>false</SwapMouseButtons>
-  <DataPath>%AppData%\VAT-Spy\</DataPath>
 </VATSpyConfig>
